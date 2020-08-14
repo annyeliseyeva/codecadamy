@@ -1,4 +1,4 @@
-var englishText = "this is a secret message"
+﻿var englishText = "this is a secret message"
 
 var secretMessage = ".... --- .-- -.. -.--   .--. .- .-. - -. . .-."
 
@@ -33,6 +33,7 @@ var letterToMorse: [Character: String] = [
   "Z": "--.."
 ]
 
+write something
 
 print(letterToMorse["A"]!)
 
